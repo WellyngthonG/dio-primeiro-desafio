@@ -1,6 +1,6 @@
 # Repositório do primeiro desafio de projeto da DIO.
 Primeiro desafio de projeto da DIO 
 
-##Links úteis 
+## Links úteis
 
-https://www.markdownguide.org/basic-syntax/
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
